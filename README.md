@@ -11,10 +11,8 @@
 
 | Syntax | Description |
 | ----------- | ----------- |
-| git help -a’
- git help -g | list available subcommands and some concept guides |
-|git help <command>	
-git help <concept> | read about a specific subcommand or concept |
+| git help -g | list available subcommands and some concept guides |	
+|git help | read about a specific subcommand or concept |
 |git help git|overview of the system|
 
 ## Set Config Values for VSCODE
