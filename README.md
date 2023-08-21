@@ -69,6 +69,13 @@ In this file add file u can add which u want git to ignore u can even add extens
 
 | Syntax | Description |
 |--------|-------------|
+|git fetch|	Download objects and refs from another repository|
+|git pull |	Fetch from and integrate with another repository or local branch|
+|git push| Update remote refs along with associated objects
+
+
+
+
 
 
 
